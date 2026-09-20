@@ -7,6 +7,4 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 Clean-param: utm_source&utm_medium&utm_campaign
-Host: torrentgiraffe.github.io
-
-Sitemap: https://torrentgiraffe.github.io/youtube-fix/sitemap.xml
+Sitemap: https://github.com/TorrentGiraffe/youtube-fix
