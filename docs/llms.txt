@@ -1,10 +1,10 @@
 # youtube-fix
 
-Сборка youtube-fix для тех, у кого YouTube ползёт на 144p. Без VPN и без смены DNS-провайдера.
+Актуальная версия с поддержкой обхода YouTube в текущих условиях. Стабильнее, быстрее, надежнее
 
 Сборка youtube-fix для тех, у кого YouTube ползёт на 144p. Без VPN и без смены DNS-провайдера. обход замедления YouTube, YouTube тормозит что делать, YouTube не грузит видео, ускорить YouTube без VPN. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/TorrentGiraffe/youtube-fix/releases/latest
-Код: https://github.com/TorrentGiraffe/youtube-fix
+Релиз: https://github.com/torrentgiraffe/youtube-fix/releases/latest
+Код: https://github.com/torrentgiraffe/youtube-fix
 Основа: https://github.com/bol-van/zapret
-Страница: https://torrentgiraffe.github.io/youtube-fix/
+Страница: https://github.com/torrentgiraffe/youtube-fix
